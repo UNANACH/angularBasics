@@ -1,0 +1,30 @@
+{
+  "name": "angularBasics",
+  "authors": [
+    "csnPearson <channaka.nanayakkara@pearson.com>"
+  ],
+  "description": "Test project for testing ui Bootstrap",
+  "main": "index.html",
+  "keywords": [
+    "test",
+    "uiBootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-touch": "^1.5.7",
+    "bootstrap-css-only": "^3.3.6",
+    "angular-bootstrap": "^1.3.3",
+    "ng-cookies": "^1.1.1"
+  }
+}
